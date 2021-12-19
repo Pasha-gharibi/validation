@@ -1,4 +1,4 @@
-# Getting Started
+# Validation
 A simple Spring Boot project with a RESTful endpoint to upload files.
 Alternative Frameworks could be a Reactive RESTful. To prevent memory leak, files will be streamed during uploading and processing.
 
